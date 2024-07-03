@@ -25,20 +25,20 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
         <tbody>
             <tr>
                 <td>Higher mathematics</td>
-                <td><img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> </td>
+                <td><img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> </td>
             </tr>
             <tr>
                 <td>
                 Basics of computer science and higher programming language
                 </td>
-                <td><img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> </td>
+                <td><img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> </td>
             </tr>
              <tr>
                 <td>
                     Technical computer Science
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
              <tr>
@@ -241,7 +241,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
 </section>
 <section>
 <details>
-  <summary><h2  align=center> <img align="center" src="https://cdn-icons-png.flaticon.com/512/4068/4068004.png" width="37"/> Contact Me</h2></summary>
+  <summary><h2  align=center> <img align="center" src="https://github.com/4mierS/4mierS/blob/main/icons/contact.png" width="37"/> Contact Me</h2></summary>
   <p  align=center>
     <i>You can reach out to me via</i>
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThuM3h0cmI5NHk0czJyMXVqemhkb2x5ZnZyeGUwNWJleHQ1a3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z835RsRqQHOlC4rsBr/giphy.gif"/>
