@@ -46,7 +46,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     Higher mathematics <b>2</b>
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -54,7 +54,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     Data networks and IT security
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -62,7 +62,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     Algorithms and data structures
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -70,7 +70,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     Theoretical Computer Science and Logic
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -78,7 +78,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     Databases and web technologies
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -86,7 +86,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     Architecture of computer systems, operating system concepts and distributed systems
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -94,7 +94,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     Software Engineering
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -102,7 +102,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     Object-oriented software development
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -110,7 +110,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     Business administration
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
         </tbody>
@@ -137,7 +137,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     ITS
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -148,7 +148,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     SOFT
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/5974/5974759.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -159,7 +159,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     SOFT - ITM
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/11532/11532572.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -170,7 +170,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     SOFT
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/11532/11532572.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -181,7 +181,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     ITS - SOFT
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/11532/11532572.png" width=0% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=0% /> 
                 </td>
             </tr>
             <tr>
@@ -192,7 +192,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     SOFT - ITM
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/11532/11532572.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -203,7 +203,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     SOFT - ITM
                 </td>
                 <td>
-                    <img src="https://cdn-icons-png.flaticon.com/512/11532/11532572.png" width=10% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=10% /> 
                 </td>
             </tr>
         </tbody>
@@ -225,7 +225,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
 </section>
 <section>
 <details>
-  <summary><h2> <img align="center" src="https://github.com/4mierS/4mierS/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/4mierS/4mierS/blob/main/icons/graph.png" width="32"/> Stats</h2></summary>
   <div align="center">
 
 <div align="center">
