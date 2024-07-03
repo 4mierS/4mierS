@@ -181,7 +181,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     ITS - SOFT
                 </td>
                 <td>
-                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=0% /> 
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=10% /> 
                 </td>
             </tr>
             <tr>
@@ -251,7 +251,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
       <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="10%"/>
     </a>
     <a href="mailto:amiershr@gmail.com">
-      <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png " width="10%"/>
+      <img align="center" src="https://github.com/4mierS/4mierS/blob/main/icons/mail.png" width="10%"/>
     </a>
  </div>
 </details>
