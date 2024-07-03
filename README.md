@@ -226,7 +226,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
 <section>
 <h2>Stats and Activity</h2>
 <details>
-  <summary><h2> <img align="center" src="https://cdn-icons-png.flaticon.com/512/3201/3201509.png" width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/4mierS/4mierS/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
     ![](https://github-readme-stats.vercel.app/api?username=4mierS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
     ![](https://github-readme-streak-stats.herokuapp.com/?user=4mierS&theme=tokyonight&hide_border=false)<br/>
