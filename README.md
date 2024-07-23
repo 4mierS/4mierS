@@ -226,7 +226,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
 <section>
 <details>
   <summary><h2> <img align="center" src="https://github.com/4mierS/4mierS/blob/main/icons/graph.png" width="32"/> Stats</h2></summary>
-  <div style="display:grid; gap:10px grid-template-columns: auto auto auto auto auto auto;">
+  <div style="display:grid; gap:10px grid-template-columns: auto auto auto auto auto auto; grid-template-columns: 1fr 1fr; grid-template-rows: auto; ">
 
 <div style="grid-column: 1 / span 1">
 
