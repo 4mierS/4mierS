@@ -209,14 +209,14 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
         </tbody>
     </table>
     </details>
-    <div align=center>
+    <div align=center style="display:flex; flex-direction: column; justify-content: space-between">
     <p>You want to learn more about each module</p>
-        <button style="background-color:red, padding-bottom: 5px">
+        <button style="background-color: #00ccff;">
             <a href="https://www.fh-aachen.de/en/studium/studiengaenge/informatik-bsc/studieninhalte" style="font-style:none; color:#34b0aa">
                 visit the university
             </a>
         </button><br/>
-        <button style="background-color:red, padding-bottom: 5px">
+        <button style="background-color:#00ccff;">
             <a href="https://www.fh-aachen.de/en/studium/studiengaenge/informatik-bsc/studieninhalte" style="font-style:none; color:#34b0aa">
                 visit my portfolio
             </a>
