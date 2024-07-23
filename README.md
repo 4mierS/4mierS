@@ -211,12 +211,12 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
     </details>
     <div align=center>
     <p>You want to learn more about each module</p>
-        <button>
+        <button style="background-color:red, padding-bottom: 5px">
             <a href="https://www.fh-aachen.de/en/studium/studiengaenge/informatik-bsc/studieninhalte" style="font-style:none; color:#34b0aa">
                 visit the university
             </a>
-        </button>
-        <button>
+        </button><br/>
+        <button style="background-color:red, padding-bottom: 5px">
             <a href="https://www.fh-aachen.de/en/studium/studiengaenge/informatik-bsc/studieninhalte" style="font-style:none; color:#34b0aa">
                 visit my portfolio
             </a>
@@ -243,7 +243,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
 <details>
   <summary><h2  align=center> <img align="center" src="https://github.com/4mierS/4mierS/blob/main/icons/contact.png" width="37"/> Contact Me</h2></summary>
   <p  align=center>
-    <i>You can reach out to me via</i>
+    <i>You can reach out to me via</i><br/>
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThuM3h0cmI5NHk0czJyMXVqemhkb2x5ZnZyeGUwNWJleHQ1a3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z835RsRqQHOlC4rsBr/giphy.gif"/>
  </p>
  <div align=center style="display:flex; ">
