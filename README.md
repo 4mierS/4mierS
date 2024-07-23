@@ -228,11 +228,11 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
   <summary><h2> <img align="center" src="https://github.com/4mierS/4mierS/blob/main/icons/graph.png" width="32"/> Stats</h2></summary>
   <div align="center">
 
-<div align="center">
+<div align="center" style="display: grid; column-gap;50;">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4mierS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4mierS&theme=tokyonight&hide_border=false)<br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mierS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4mierS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4mierS&theme=tokyonight&hide_border=false)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mierS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4mierS&theme=tokyo-night)
 </div>
 
