@@ -159,7 +159,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     SOFT - ITM
                 </td>
                 <td>
-                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=10% />
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% />
                 </td>
             </tr>
             <tr>
@@ -170,7 +170,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     SOFT
                 </td>
                 <td>
-                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=10% />
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% />
                 </td>
             </tr>
             <tr>
@@ -181,7 +181,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     ITS - SOFT
                 </td>
                 <td>
-                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=10% />
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% />
                 </td>
             </tr>
             <tr>
@@ -192,7 +192,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     SOFT - ITM
                 </td>
                 <td>
-                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=10% />
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% />
                 </td>
             </tr>
             <tr>
@@ -203,7 +203,7 @@ Im a student at the the Aachen University of Applied Science. Im at the 6th sems
                     SOFT - ITM
                 </td>
                 <td>
-                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/milestone.png" width=10% />
+                    <img src="https://github.com/4mierS/4mierS/blob/main/icons/check.png" width=10% />
                 </td>
             </tr>
         </tbody>
