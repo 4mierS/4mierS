@@ -279,9 +279,6 @@ Hey, I'm Amier! 👋<br>
     <a href="https://t.me/AmierSh">
       <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="10%"/>
     </a>
-    <a href="mailto:amiershr@gmail.com">
-      <img align="center" src="https://github.com/4mierS/4mierS/blob/main/icons/mail.png" width="10%"/>
-    </a>
  </div>
 </details>
 </section>
