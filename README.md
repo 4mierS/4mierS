@@ -7,20 +7,23 @@
 <section>
 <h2>About Me</h2>
 
-Hey, I'm Amier! 👋
-Age: 23
-Location: Neuss, Germany
+Hey, I'm Amier! 👋<br>
+<p><strong>Age:</strong> 23<br>
+<strong>Location:</strong> Neuss, Germany</p>
 
-I'm a passionate frontend developer living in Neuss, Germany, and studying Computer Science at the University of Applied Sciences. I specialize in React and enjoy working on projects that blend frontend creativity with technical depth. My tech stack also includes Java, C++, C#, and more recently, Go and Scala.
+<p>I'm a passionate <strong>frontend developer</strong> living in Neuss, Germany, and studying <strong>Computer Science</strong> at the University of Applied Sciences. I specialize in <strong>React</strong> and enjoy working on projects that blend frontend creativity with technical depth. My tech stack also includes <strong>Java, C++, C#</strong>, and more recently, <strong>Go</strong> and <strong>Scala</strong>.</p>
 
-💻 Current Role: Working as a part-time frontend developer
-🎓 Education: Computer Science, University of Applied Sciences
-🌱 Currently Learning: Advanced TypeScript, Go, and Scala for backend functionality and mobile app development
-💡 Interests: Software development, Frontend development and IoT
-⚽️ Hobbies: Football enthusiast — I'm a player, referee, and have experience as a youth coach and team leader
-🚀 Projects: Building a SmartCity demonstrator integrating sensors, and Grafana
+<ul>
+  <li><strong>Current Role:</strong> Working as a part-time frontend developer</li>
+  <li><strong>Education:</strong> Computer Science, University of Applied Sciences</li>
+  <li><strong>Currently Learning:</strong> Advanced TypeScript, Go, and Scala for backend functionality and mobile app development</li>
+  <li><strong>Interests:</strong> Frontend development, IoT, and SmartCity tech</li>
+  <li><strong>Hobbies:</strong> Football enthusiast — I'm a player, referee, and have experience as a youth coach and team leader</li>
+  <li><strong>Projects:</strong> Building a SmartCity demonstrator integrating sensors, React, and Firebase</li>
+</ul>
 
-Let's connect! I'm always open to sharing ideas and collaborating on projects.
+<p>Let's connect! I'm always open to sharing ideas and collaborating on projects.</p>
+
 </section>
 <section>
 <h2>Modules</h2>
