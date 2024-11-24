@@ -7,7 +7,20 @@
 <section>
 <h2>About Me</h2>
 
-Im a student at the the Aachen University of Applied Science. Im at the 6th semster, I focus on IT security and software technology.
+Hey, I'm Amier! 👋
+Age: 23
+Location: Neuss, Germany
+
+I'm a passionate frontend developer living in Neuss, Germany, and studying Computer Science at the University of Applied Sciences. I specialize in React and enjoy working on projects that blend frontend creativity with technical depth. My tech stack also includes Java, C++, C#, and more recently, Go and Scala.
+
+💻 Current Role: Working as a part-time frontend developer
+🎓 Education: Computer Science, University of Applied Sciences
+🌱 Currently Learning: Advanced TypeScript, Go, and Scala for backend functionality and mobile app development
+💡 Interests: Software development, Frontend development and IoT
+⚽️ Hobbies: Football enthusiast — I'm a player, referee, and have experience as a youth coach and team leader
+🚀 Projects: Building a SmartCity demonstrator integrating sensors, and Grafana
+
+Let's connect! I'm always open to sharing ideas and collaborating on projects.
 </section>
 <section>
 <h2>Modules</h2>
