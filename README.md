@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Amier </h1>
 <h2 align="center">
-    Student at the Aachen University of Applied Sciences
+   Working as a frontend dev in pso Vertriebsprogramme GmbH
   <img src="https://komarev.com/ghpvc/?username=4mierS&color=orange&style=flat&abbreviated=true" alt="Profile views" style=" padding: 0 20 0;" align=center>
 </h2>
 
@@ -8,16 +8,16 @@
 <h2>About Me</h2>
 
 Hey, I'm Amier! 👋<br>
-<p><strong>Age:</strong> 23<br>
+<p><strong>Age:</strong> 24<br>
 <strong>Location:</strong> Neuss, Germany</p>
 
-<p>I'm a passionate <strong>frontend developer</strong> living in Neuss, Germany, and studying <strong>Computer Science</strong> at the University of Applied Sciences. I specialize in <strong>React</strong> and enjoy working on projects that blend frontend creativity with technical depth. My tech stack also includes <strong>Java, C++, C#</strong>, and more recently, <strong>Go</strong> and <strong>Scala</strong>.</p>
+<p>I'm a passionate <strong>frontend developer</strong> living in Neuss, Germany, and finished my study of <strong>Computer Science</strong> at the University of Applied Sciences. I specialize in <strong>Vue</strong> and enjoy working on projects that blend frontend creativity with technical depth. My tech stack also includes <strong>Java, C++, C#</strong>, and more recently, <strong>Go</strong> and <strong>Scala</strong>.</p>
 
 <ul>
   <li><strong>💻 Current Role:</strong> Working as a part-time frontend developer using vue</li>
   <li><strong>🎓 Education:</strong> Computer Science, University of Applied Sciences</li>
-  <li><strong>🌱 Currently Learning:</strong> Advanced TypeScript, Go, and Scala for backend functionality and mobile app development with Ionic and React Native</li>
-  <li><strong>💡 Interests:</strong> Software development, Frontend development and IoT</li>
+  <li><strong>🌱 Currently Learning:</strong> Advanced Vue, Typescript Dev</li>
+  <li><strong>💡 Interests:</strong> Software development and IoT</li>
   <li><strong>⚽️ Hobbies:</strong> Football enthusiast — I'm a player, referee, and have experience as a youth coach and team leader</li>
   <li><strong>🚀 Projects:</strong> Building a SmartCity demonstrator integrating sensors and Grafana</li>
 </ul>
