@@ -29,8 +29,7 @@ B.Sc. Applied Computer Science, FH Aachen University of Applied Sciences (2024).
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,tailwind" alt="TypeScript, React, Next.js, Vue, Nuxt, Tailwind CSS" />
 
 **Data and tools**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,docker,git,linux" alt="PostgreSQL, Prisma, Supabase, Docker, Git, Linux" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="48" />
+<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,docker,git,linux" alt="PostgreSQL, Prisma, Supabase, Docker, Git, Linux" /><img src="assets/n8n.svg" alt="n8n" height="48" />
 
 ## Side projects
 
@@ -46,8 +45,8 @@ These repos are private. If you want to see one of them, send me a message.
 Public repos:
 
 <p>
-  <a href="https://github.com/4mierS/relay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4mierS&repo=relay&theme=tokyonight&hide_border=true" alt="relay" /></a>
-  <a href="https://github.com/4mierS/flight-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4mierS&repo=flight-tracker&theme=tokyonight&hide_border=true" alt="flight-tracker" /></a>
+  <a href="https://github.com/4mierS/relay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4mierS&repo=relay&theme=tokyonight&hide_border=true&description_lines_count=3" width="400" alt="relay" /></a>
+  <a href="https://github.com/4mierS/flight-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4mierS&repo=flight-tracker&theme=tokyonight&hide_border=true&description_lines_count=3" width="400" alt="flight-tracker" /></a>
 </p>
 
 - [relay](https://github.com/4mierS/relay): Claude Code plugin that hands off to a new session at the end of a task instead of compacting the context.
