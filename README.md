@@ -1,70 +1,73 @@
-<h1 align="center">Hi, I'm Amier </h1>
-<h2 align="center">
-   Working as a frontend dev in pso Vertriebsprogramme GmbH
-  <img src="https://komarev.com/ghpvc/?username=4mierS&color=orange&style=flat&abbreviated=true" alt="Profile views" style=" padding: 0 20 0;" align=center>
-</h2>
+<div align="center">
 
-<section>
-<h2>About Me</h2>
+# Amier Shraideh
 
-Hey, I'm Amier! 👋<br>
-<p><strong>Age:</strong> 24<br>
-<strong>Location:</strong> Neuss, Germany</p>
+Full-stack developer in Neuss, Germany. C#, .NET, React, TypeScript.
 
-<p>I'm a passionate <strong>frontend developer</strong> living in Neuss, Germany, and finished my study of <strong>Computer Science</strong> at the University of Applied Sciences. I specialize in <strong>Vue</strong> and enjoy working on projects that blend frontend creativity with technical depth. My tech stack also includes <strong>Java, C++, C#</strong>, and more recently, <strong>Go</strong> and <strong>Scala</strong>.</p>
-
-<ul>
-  <li><strong>💻 Current Role:</strong> Working as a part-time frontend developer using vue</li>
-  <li><strong>🎓 Education:</strong> Computer Science, University of Applied Sciences</li>
-  <li><strong>🌱 Currently Learning:</strong> Advanced Vue, Typescript Dev</li>
-  <li><strong>💡 Interests:</strong> Software development and IoT</li>
-  <li><strong>⚽️ Hobbies:</strong> Football enthusiast — I'm a player, referee, and have experience as a youth coach and team leader</li>
-  <li><strong>🚀 Projects:</strong> Building a SmartCity demonstrator integrating sensors and Grafana</li>
-</ul>
-
-<p>Let's connect! I'm always open to sharing ideas and collaborating on projects.</p>
-
-</section>
-<section>
-<details>
-  <summary><h2> <img align="center" src="https://github.com/4mierS/4mierS/blob/main/icons/graph.png" width="32"/> Stats</h2></summary>
-  <div style="display:grid; gap:10px grid-template-columns: auto auto auto auto auto auto; grid-template-columns: 1fr 1fr; grid-template-rows: auto; ">
-
-<div style="grid-column: 1 / span 1">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4mierS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+<p>
+  <a href="https://www.linkedin.com/in/amier-shraideh-38b885151"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/AmierSh"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://amierdev.com"><img src="https://img.shields.io/badge/amierdev.com-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" alt="amierdev.com" /></a>
+</p>
 
 </div>
-<div style="grid-column: 2 / span 1">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mierS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## About
 
- </div>
+I work as a full-stack developer at PSO Vertriebsprogramme. Most of my time goes into backend work with C# and .NET in the billing domain, and I'm building a KPI dashboard for the team.
 
-<div style="grid-column: 1 / span 2">
+From 2024 to 2026 I worked there as a frontend developer. Besides building and maintaining interfaces, I spent a lot of that time removing dead code and reducing tech debt.
 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4mierS&theme=tokyo-night)
+B.Sc. Applied Computer Science, FH Aachen University of Applied Sciences (2024).
 
-</div>
- <div style="grid-column: 1 / span 3 ">
- 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4mierS&theme=tokyonight&hide_border=false)
+## Tech stack
 
-</div>
-  </div>
-</details>
-</section>
-<section>
-<details>
-  <summary><h2  align=center> <img align="center" src="https://github.com/4mierS/4mierS/blob/main/icons/contact.png" width="37"/> Contact Me</h2></summary>
-  <p  align=center>
-    <i>You can reach out to me via</i><br/>
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThuM3h0cmI5NHk0czJyMXVqemhkb2x5ZnZyeGUwNWJleHQ1a3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z835RsRqQHOlC4rsBr/giphy.gif"/>
- </p>
- <div align=center style="display:flex; ">
-    <a href="https://t.me/AmierSh">
-      <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="10%"/>
-    </a>
- </div>
-</details>
-</section>
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,php,java" alt="C#, .NET, Node.js, PHP, Java" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,tailwind" alt="TypeScript, React, Next.js, Vue, Nuxt, Tailwind CSS" />
+
+**Data and tools**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,docker,git,linux" alt="PostgreSQL, Prisma, Supabase, Docker, Git, Linux" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="48" />
+
+## Side projects
+
+These repos are private. If you want to see one of them, send me a message.
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| Cleano | CRM for cleaning companies in Germany, Austria and Switzerland. Each company gets its own database schema. | Next.js, TypeScript, PostgreSQL, Prisma |
+| Care roster | App my family uses to organise the care of a relative: roster, handovers, shift swaps, medication and shared expenses. Arabic interface. | Expo, React Native, Hono, Prisma, PostgreSQL |
+| Lead scan | n8n workflow that runs weekly, scrapes Google Maps for businesses without a website and sends the results to Telegram. | n8n, Docker, Telegram |
+| Sleep Guardian | Windows tray app that puts the PC to sleep when nothing is running. I can control it from my phone without opening ports on the router. | TypeScript, Next.js, PostgreSQL |
+
+Public repos:
+
+<p>
+  <a href="https://github.com/4mierS/relay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4mierS&repo=relay&theme=tokyonight&hide_border=true" alt="relay" /></a>
+  <a href="https://github.com/4mierS/flight-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4mierS&repo=flight-tracker&theme=tokyonight&hide_border=true" alt="flight-tracker" /></a>
+</p>
+
+- [relay](https://github.com/4mierS/relay): Claude Code plugin that hands off to a new session at the end of a task instead of compacting the context.
+- [flight-tracker](https://github.com/4mierS/flight-tracker): tracks flight prices for saved routes, stores the price history and sends a Telegram message when a price drops below a threshold.
+
+## Working with AI
+
+I use Claude Code daily. Larger projects start with a written plan before any code. Each project has a `CLAUDE.md` with its stack and conventions, and recurring tasks run as n8n workflows or custom skills. I review generated code the same way I would review a colleague's.
+
+## Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=4mierS&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mierS&theme=tokyonight&hide_border=true&layout=compact&hide=dart" alt="Top languages" height="165" />
+</p>
+
+<img src="https://streak-stats.demolab.com/?user=4mierS&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+
+## Contact
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/amier-shraideh-38b885151) or [Telegram](https://t.me/AmierSh).
+
+My CV and certificates are on [amierdev.com](https://amierdev.com). The site is password-protected; message me on LinkedIn or Telegram if you need access.
