@@ -2,7 +2,7 @@
 
 # Amier Shraideh
 
-Full-stack developer in Neuss, Germany. C#, .NET, React, TypeScript.
+Full-stack developer in Neuss, Germany. Vue, TypeScript, C#, .NET.
 
 <p>
   <a href="https://www.linkedin.com/in/amier-shraideh-38b885151"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,11 +14,11 @@ Full-stack developer in Neuss, Germany. C#, .NET, React, TypeScript.
 
 ## About
 
-I work as a full-stack developer at PSO Vertriebsprogramme. Most of my time goes into backend work with C# and .NET in the billing domain, and I'm building a KPI dashboard for the team.
+I work as a full-stack developer at PSO Vertriebsprogramme, where we build referral and rewards portals for customers in insurance and banking. Since August 2026 most of my time goes into backend work with C# and .NET in the billing domain, including a KPI dashboard that shows our customers their orders and status history at a glance.
 
-From 2024 to 2026 I worked there as a frontend developer. Besides building and maintaining interfaces, I spent a lot of that time removing dead code and reducing tech debt.
+From November 2024 to July 2026 I worked there on the frontend, first as a working student: UI components and forms with validation in Vue.js, accessibility under the German BFSG, performance work with Lighthouse and Axe, and dynamic GitLab pipeline libraries. I also spent a lot of that time removing dead code and reducing tech debt.
 
-B.Sc. Applied Computer Science, FH Aachen University of Applied Sciences (2024).
+B.Sc. Computer Science (Informatik), FH Aachen University of Applied Sciences, major in software engineering (2025). Bachelor's thesis: "Clean Code in Theory and Practice".
 
 ## Tech stack
 
@@ -29,7 +29,7 @@ B.Sc. Applied Computer Science, FH Aachen University of Applied Sciences (2024).
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,tailwind" alt="TypeScript, React, Next.js, Vue, Nuxt, Tailwind CSS" />
 
 **Data and tools**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,docker,git,linux" alt="PostgreSQL, Prisma, Supabase, Docker, Git, Linux" /><img src="assets/n8n.svg" alt="n8n" height="48" />
+<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,docker,git,gitlab,linux" alt="PostgreSQL, Prisma, Supabase, Docker, Git, GitLab, Linux" /><img src="assets/n8n.svg" alt="n8n" height="48" />
 
 ## Side projects
 
